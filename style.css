@@ -73,6 +73,7 @@
             margin-top:10px;
             
         }
+   
         
          .section-six{
             background-color: black;
@@ -88,15 +89,15 @@
             margin-top: 10px;
             margin-bottom:10px;
          } 
-         .section-six__contact{
-            color:pink;
-            background-color: aquamarine;
+         .section-six__decs{
+            background-color: orange;
+            color:white;
             text-decoration: none;
-            padding-left:10px;
-            padding-right:10px;
-            padding-top:5px;
-            padding-bottom:5px;
-            margin-top:10px;
+            padding-left:10px ;
+            padding-right:10px ;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            margin-top: 10px;
 
          }
          .container{
@@ -118,7 +119,7 @@
          
         }
         
-         
+        </style>
          
 
          
@@ -126,4 +127,4 @@
    
          
          
-      </style>
+      
