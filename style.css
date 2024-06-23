@@ -23,7 +23,7 @@
          .section-one__contact{
             color:pink;
             background-color: aquamarine;
-            text-decoration: line;
+            text-decoration: none;
             padding-left:10px;
             padding-right:10px;
             padding-top:5px;
@@ -93,7 +93,7 @@
          .section-six__decs{
             background-color: orange;
             color:white;
-            text-decoration: line;
+            text-decoration: none;
             padding-left:10px ;
             padding-right:10px ;
             padding-top: 5px;
